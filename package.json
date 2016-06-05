@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/audinue/mvc-js/issues"
   },
-  "homepage": "https://github.com/audinue/mvc-js#readme"
+  "homepage": "https://github.com/audinue/mvc-js#readme",
+  "dependencies": {
+    "binding-js": "^0.2.1",
+    "delegate-js": "^0.1.0"
+  }
 }
